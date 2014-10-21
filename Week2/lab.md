@@ -16,6 +16,8 @@ Your code should provide the following features:
 - A label that displays your current hand.
 - A label that tells you if you have gone bust or won the game.
 
+!(https://github.com/zdavison/DIT.iOS1/blob/master/Week2/blackjack_ui.png)
+
 Required Understanding
 --------------------
 Interface Builder, UILabel, UIButton, IBAction, IBOutlet.
