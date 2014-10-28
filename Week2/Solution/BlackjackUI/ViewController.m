@@ -42,11 +42,17 @@
   }
 }
 
-- (IBAction)drawButtonPressed:(id)sender{
+- (BJCard*)drawCard{
   NSInteger index = arc4random() % _deck.count;
   BJCard *card = [_deck objectAtIndex:index];
-  [_hand addObject:card];
   [_deck removeObject:card];
+  
+  return card;
+}
+
+- (IBAction)drawButtonPressed:(id)sender{
+  BJCard *drawnCard = [self drawCard];
+  [_hand addObject:drawnCard];
   
   [self updateGame];
 }
