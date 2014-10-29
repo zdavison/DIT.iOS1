@@ -74,7 +74,7 @@ In here is where you can perform your preparations.
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(UIButton*)sender{
   if([segue.identifier isEqualToString:@"MyTransitionSegue"]){
     MySecondController *destinationViewController = segue.destinationViewController;
-    destinationViewController.label.text = sender.titleLabel.text;
+    destinationViewController.myString = sender.titleLabel.text;
   }
 }
 ```
