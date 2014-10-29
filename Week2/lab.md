@@ -15,6 +15,9 @@ Your code should provide the following features:
 - A button that the user can press to draw a card and check the state of the game. (eg: When you draw a card, check the state of the game and update the UI accordingly).
 - A label that displays your current hand.
 - A label that tells you if you have gone bust or won the game.
+- A label that displays your current hand value.
+
+![](https://github.com/zdavison/DIT.iOS1/blob/master/Week2/blackjack_ui.png)
 
 Required Understanding
 --------------------
