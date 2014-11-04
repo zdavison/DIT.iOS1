@@ -27,6 +27,7 @@ UITableView, UITabBarController, UITableViewCell, how all these pieces fit toget
 Hints
 --------------------
 - You will need to implement a `UITableViewDataSource` to provide cells for your `UITableView`.
+- You will need to subclass `UITableViewCell`.
 
 Bonus
 --------------------
