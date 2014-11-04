@@ -30,7 +30,7 @@ Hints
 
 Bonus
 --------------------
-There is a sample of real world Twitter JSON data [here](), can you load it using `AFNetworking` and display the tweets in your code?
+There is a sample of real world Twitter JSON data [here](https://github.com/zdavison/DIT.iOS1/raw/master/Week4/sample.json), can you load it using `AFNetworking` and display the tweets in your code?
 
 Submission
 --------------------
