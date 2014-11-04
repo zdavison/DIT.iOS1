@@ -6,7 +6,7 @@ Overview
 
 The goal of this lab is to create an accurate reconstruction of the Twitter client screen we saw in the iOS1.4 lecture. It is not necessary to make anything function beyond what is visible on screen, all that is necessary is to replicate what you can see in this screenshot:
 
-![](https://github.com/zdavison/DIT.iOS1/blob/master/Week4/twitter.png)
+![](https://raw.githubusercontent.com/zdavison/DIT.iOS1/master/Week4/twitter.PNG)
 
 However, do not make a 'static' version of this, you must use a `UITableView` and `UITableViewCells` to represent tweets. For now, you do not need to worry about variable height tweets, simply make your tweet text body a maximum of 2 lines long, and all your cells the same height.
 
