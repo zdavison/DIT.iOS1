@@ -6,7 +6,7 @@ Overview
 
 The goal of this lab is to create a `UIViewController` that can transition to another screen whenever either of two buttons is pressed, and print the text of the button that was pressed on the second screen.
 
-![](https://github.com/zdavison/DIT.iOS1/blob/master/Week3/identifier.png)
+![](https://github.com/zdavison/DIT.iOS1/blob/master/Week3/lab.png)
 
 Goals
 --------------------
