@@ -6,7 +6,7 @@ Overview
 
 This class begins to analyse how we could build a real world application, a Twitter client, giving an overview of every component used to build the screen.
 
-![](https://github.com/zdavison/DIT.iOS1/blob/master/Week4/twitter.png)
+![](https://github.com/zdavison/DIT.iOS1/blob/master/Week4/twitter.PNG)
 
 [UINavigationBar](https://developer.apple.com/Library/ios/documentation/UIKit/Reference/UINavigationBar_Class/index.html)
 --------------------
