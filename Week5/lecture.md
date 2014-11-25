@@ -48,7 +48,7 @@ The dock contains a list of your views / view controllers, and their tree of chi
 IBOutlet Pane
 --------------------
 
-![](https://github.com/zdavison/DIT.iOS1/blob/master/Week5/dock.png)
+![](https://github.com/zdavison/DIT.iOS1/blob/master/Week5/iboutlets.png)
 
 The IBOutlet pane is where you connect various `IBAction`s and `IBOutlet`s belonging to the view you summoned it from. You make it appear by right clicking on any view or view controller (in the canvas or dock). You can then connect up `IBOutlet`s or `IBActions` by dragging the little `+` to whatever it is you'd like to connect it to.
 
