@@ -37,10 +37,10 @@ Your app should have two sections / screens:
 - 5 Day Forecast screen.
 
 Your weather app must provide the following functionality:
-- Must be able to type in a city name and retrieve the weather data for it.
-- Must be able to display the temperature, humidity, and wind speed for the current day.
-- Must be able to display the current weather conditions (eg: sunny, rainy, cloudy) using some graphical representation (icons, colors, etc, you are free to implement this how you wish).
-- Must be able to display a 5 day forecast for Dublin in a UITableView. (or UICollectionView!). [If you like, you can make it display a 5 day forecast for the city you searched for, rather than Dublin]
+- Must be able to type in a city name and retrieve the weather data for it. **(10%)**
+- Must be able to display the temperature, humidity, and wind speed for the current day. **(10%)**
+- Must be able to display the current weather conditions (eg: sunny, rainy, cloudy) using some graphical representation (icons, colors, etc, you are free to implement this how you wish). **(10%)**
+- Must be able to display a 5 day forecast for Dublin in a UITableView. (or UICollectionView!). [If you like, you can make it display a 5 day forecast for the city you searched for, rather than Dublin] **(10%)**
 
 
 Resources
