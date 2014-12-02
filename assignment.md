@@ -46,7 +46,7 @@ Your weather app must provide the following functionality:
 Resources
 --------
 
-You can use [OpenWeather](http://openweathermap.org/api) to retrieve weather data. You will need to sign up for an API key. You will need to consult the documentation to discover how to use the service.
+You can use [OpenWeather](http://openweathermap.org/api) to retrieve weather data. You will need to sign up for an API key (free). You will need to consult the documentation to discover how to use the service.
 
 You can use [AFNetworking](https://github.com/AFNetworking/AFNetworking) to make network requests.
 
