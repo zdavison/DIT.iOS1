@@ -32,6 +32,11 @@ https://raw.githubusercontent.com/zdavison/DIT.iOS1/master/Week4/sample.json
   - Text of the tweet.
   - A list of any hashtags mentioned in the tweet.
 
+Marking
+---------------
+- The UITableView, including loading data from the web, is worth 60%.
+- The UIViewController / segue section is worth 30%.
+- The remaining 10% is distributed for clean code and organisation.
 
 Instructions
 ---------------
